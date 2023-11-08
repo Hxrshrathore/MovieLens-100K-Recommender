@@ -1,0 +1,4 @@
+numpy
+scipy
+cython
+scikit-surprise==1.1.1
